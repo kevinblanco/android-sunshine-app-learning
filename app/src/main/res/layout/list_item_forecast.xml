@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:attr/textAppearanceLarge"
+    android:text="Large Text"
+    android:id="@+id/list_item_forcast_textview"
+    android:layout_weight="0.07"
+    android:minHeight="60dp"
+    android:textAlignment="center"
+    android:gravity="center"
+    android:background="#ffeaedeb"
+    android:textColor="#ff343434"
+    android:layout_marginBottom="20dp"
+    android:layout_marginTop="20dp"/>
